@@ -67,7 +67,7 @@ CONTAINER ID        IMAGE               COMMAND                  CREATED        
 e0884a8d444d        mysql:8.0.19        "docker-entrypoint.s…"   35 seconds ago      Up 34 seconds       3306/tcp, 33060/tcp   wordpress-mysql_db_1
 ```
 
-Navigate to `http://localhost:80` in your web browser to access Wordpress.
+Navigate to `http://localhost:8000` in your web browser to access Wordpress.
 
 
 Stop and remove the containers
