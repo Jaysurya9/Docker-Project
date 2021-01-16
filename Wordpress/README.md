@@ -69,7 +69,6 @@ e0884a8d444d        mysql:8.0.19        "docker-entrypoint.s…"   35 seconds ag
 
 Navigate to `http://localhost:80` in your web browser to access Wordpress.
 
-![page](output.jpg)
 
 Stop and remove the containers
 
